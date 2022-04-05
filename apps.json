@@ -1,0 +1,70 @@
+[
+	{
+		"id": 1,
+		"name": "Ankara Şube",
+		"terminals": [
+			{
+				"id": 1,
+				"name": "AX00001100001",
+				"apps": [
+					{
+						"id": 1,
+						"name": "ProTel"
+					},
+					{
+						"id": 2,
+						"name": "Token Flex"
+					}
+				]
+			},
+			{
+				"id": 1,
+				"name": "AX00001100002",
+				"apps": [
+					{
+						"id": 1,
+						"name": "ProTel"
+					},
+					{
+						"id": 2,
+						"name": "Token Flex"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "İstanbul Şube",
+		"terminals": [
+			{
+				"id": 1,
+				"name": "AX00001200001",
+				"apps": [
+					{
+						"id": 1,
+						"name": "ProTel"
+					},
+					{
+						"id": 2,
+						"name": "Token Flex"
+					}
+				]
+			},
+			{
+				"id": 1,
+				"name": "AX00001200002",
+				"apps": [
+					{
+						"id": 1,
+						"name": "ProTel"
+					},
+					{
+						"id": 2,
+						"name": "Token Flex"
+					}
+				]
+			}
+		]
+	}
+]
